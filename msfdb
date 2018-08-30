@@ -9,7 +9,7 @@ unset GEM_ROOT
 unset RUBY_ENGINE
 unset RUBY_ROOT
 
-DB_CONF=/home/rl1k/.msf4/database.yml
+DB_CONF=$HOME/.msf4/database.yml
 DB_NAME=msf
 DB_USER=msf
 DB_PORT=5432
